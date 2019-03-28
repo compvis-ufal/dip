@@ -1,11 +1,11 @@
 Processamento Digital de Imagens - 28/03/2019
 
-Desenvolver o código que renderiza um disco HSV, como exemplificado na imagem "hsv_disk.png".
+1. Desenvolver o código que renderiza um disco HSV, como exemplificado na imagem "hsv_disk.png".
 
-Segmente os chips de cada cor da imagem “chips.png”. O resultado deverá ser um conjunto de 5 imagens, cada uma contendo os chips de uma das cores; amarelo, verde, vermelho, laranja e azul.
+2. Segmente os chips de cada cor da imagem “chips.png”. O resultado deverá ser um conjunto de 5 imagens, cada uma contendo os chips de uma das cores; amarelo, verde, vermelho, laranja e azul.
 
-Implemente o algoritmo de afinamento abordado no slide 39 da lição sobre morfologia na imagem “horse.png”. Utilize somente operações lógicas e a operação hit-or-miss. O resultado esperado é mostrado na imagem “horse_thinned.png”.
+3. Implemente o algoritmo de afinamento abordado no slide 39 da lição sobre morfologia na imagem “horse.png”. Utilize somente operações lógicas e a operação hit-or-miss. O resultado esperado é mostrado na imagem “horse_thinned.png”.
 
-Aplique uma análise de granulometria à imagem “blobs.png”, resultando num conjunto de valores como aqueles exemplificados em “blobs_granulometry.png”.
+4. Carregue a imagem "retinal.png" e use morfologia para realçar as veias, assim como exemplificado em "retinal_result.png".
 
 
